@@ -1,4 +1,4 @@
-package com.example.mustard_kitchen
+package com.mustardindian.mustard
 
 import io.flutter.embedding.android.FlutterActivity
 
